@@ -1,2 +1,3 @@
 main.remove();
-createElement("h1.victory")
+let h1 = createElement("h1.victory")
+body.appendChild(h1);
