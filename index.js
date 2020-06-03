@@ -1,2 +1,3 @@
 // Write your code here!
-querySelector("main#main").remove();
+let element = querySelector("main#main");
+element.remove();
