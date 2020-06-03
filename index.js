@@ -1,4 +1,4 @@
 // Write your code here!
-let element = querySelector('main#main');
-element.remove();
+
+let main = document.getElementById("main#main");
 removeChild(querySelector('main#main'));
