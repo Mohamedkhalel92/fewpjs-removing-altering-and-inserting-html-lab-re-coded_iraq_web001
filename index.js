@@ -1,2 +1,2 @@
 // Write your code here!
-querySelector(main#main).remove();
+querySelector("main#main").remove();
